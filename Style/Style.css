@@ -184,7 +184,7 @@ body {
 }
 
 .link_to_archviz {
-  width: 5em;
+  width: 10em;
   height: 5em;
   position: fixed;
   bottom: 2%;
@@ -199,9 +199,8 @@ body {
   text-decoration: none;
   background: url("./Images/PNG/favicon.png") no-repeat center/100%;
   opacity: 0;
-  background-size: 90%;
+  background-size: 100%;
   transition: 0.7s;
-  display: none;
 }
 .link_to_archviz:hover {
   transform: scale(1.1);
