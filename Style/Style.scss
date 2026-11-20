@@ -291,11 +291,14 @@ body {
 
   .link_to_archviz {
     left:auto;
-    right: 0em;
+    right: -0.1em;
     bottom: .2em;
     transform: none;
     transform: scale(.7);
     filter: invert(0);
+      &:hover {
+    transform: scale(.9);
+  }
   }
 
   .The-Guide {
