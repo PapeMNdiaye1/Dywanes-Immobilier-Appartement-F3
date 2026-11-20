@@ -255,7 +255,7 @@ body {
   }
   .link_to_archviz {
     left: auto;
-    right: 1em;
+    right: 0.2em;
     bottom: 0.2em;
     transform: none;
     transform: scale(0.8);
