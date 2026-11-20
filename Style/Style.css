@@ -260,7 +260,6 @@ body {
     transform: none;
     transform: scale(0.7);
     filter: invert(0);
-    background-color: rgba(34, 34, 34, 0.5);
     width: 8em;
     margin: 0em;
   }
