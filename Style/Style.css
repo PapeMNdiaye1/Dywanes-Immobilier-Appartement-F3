@@ -255,11 +255,14 @@ body {
   }
   .link_to_archviz {
     left: auto;
-    right: -0.1em;
-    bottom: 0.2em;
+    right: -0.4em;
+    bottom: 0em;
     transform: none;
     transform: scale(0.7);
     filter: invert(0);
+    background-color: rgba(34, 34, 34, 0.5);
+    width: 8em;
+    margin: 0em;
   }
   .link_to_archviz:hover {
     transform: scale(0.9);

@@ -291,11 +291,14 @@ body {
 
   .link_to_archviz {
     left:auto;
-    right: -0.1em;
-    bottom: .2em;
+    right: -0.4em;
+    bottom: 0em;
     transform: none;
     transform: scale(.7);
     filter: invert(0);
+    background-color: rgba($color-dark, 0.5);
+    width: 8em;
+    margin: 0em;
       &:hover {
     transform: scale(.9);
   }
