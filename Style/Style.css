@@ -255,10 +255,10 @@ body {
   }
   .link_to_archviz {
     left: auto;
-    right: 0.2em;
+    right: 0em;
     bottom: 0.2em;
     transform: none;
-    transform: scale(0.6);
+    transform: scale(0.7);
     filter: invert(0);
   }
   .The-Guide {
