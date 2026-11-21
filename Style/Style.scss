@@ -299,9 +299,11 @@ body {
     // background-color: rgba($color-dark, 0.5);
     width: 8em;
     margin: 0em;
-      &:hover {
-    transform: scale(.9);
-  }
+    display: none;
+
+    &:hover {
+      transform: scale(.9);
+    }
   }
 
   .The-Guide {

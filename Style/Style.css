@@ -262,6 +262,7 @@ body {
     filter: invert(0);
     width: 8em;
     margin: 0em;
+    display: none;
   }
   .link_to_archviz:hover {
     transform: scale(0.9);
