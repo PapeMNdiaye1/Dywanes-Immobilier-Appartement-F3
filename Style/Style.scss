@@ -231,7 +231,7 @@ body {
   opacity: 0;
   background-size:100% ;
   transition: 0.7s;
-
+display: none;
   &:hover {
     transform: scale(1.1);
   }
